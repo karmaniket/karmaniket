@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karmaniket&label=Profile%20views&color=0e75b6&style=flat" alt="karmaniket" /> </p>
 
-- 💻 Learning **DSA algo, Mechatronics**
+- 💻 Learning **DSA, Mechatronics**
 
 - 💬 Ask me anything regarding **Java, C/C++, Python, Sql, Arduino, Circuits , Mechanics**
 

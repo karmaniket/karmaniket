@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking to collaborate with someone who knows **Mechatronics very well**
 
-- 📃 My <a href="https://drive.google.com/file/d/1h2jQ1WCtpNrf9f4qu1sUGcjNdUCHxmLH/view?usp=drive_link" target="blank">**Resume**</a>
+- 📃 My <a href="https://drive.google.com/file/d/19nXdSkbxe3ccjAuYy3XBBqutau-g02vP/view?usp=drivesdk" target="blank">**Resume**</a>
 
 - 🔗 All of my projects are available on **YouTube**
 

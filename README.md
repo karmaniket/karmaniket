@@ -17,7 +17,7 @@
 
 - 🔗 All of my projects are available on **YouTube**
 
-- 📬 Reach me **aniketv943@gmail.com**
+- 📬 Reach me **karmaniket@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 

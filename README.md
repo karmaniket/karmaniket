@@ -1,10 +1,10 @@
 <h1 align="center">I'm Aniket Vishwakarma</h1>
-<h2 align="center">A student with an undying passion for coding, electronics and innovation...</h2>
+<h2 align="center">A learner with an undying passion for Robotics, Electronics, AI & ML.</h2>
 <br>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=karmaniket&label=Profile%20views&color=0e75b6&style=flat" alt="karmaniket"/> </p>
 <img align="right" alt="Coding" width="500" height="50%" src="bg.jpg" >
 
-💻 Learning **IoT, robotics, data science, and data structures** 
+💻 Learning **IoT, Robotics, AI/ML and Data science** 
 
 ⚙️ Currently working on <a href="https://youtu.be/rfYdz6yt3iI?si=UPEfs_aIDCgDcveI" target="blank">**Full metal Wearable and defensive Ironman armor** </a> 
 
@@ -14,7 +14,7 @@
 
 📬 Throw your words **karmaniket@gmail.com** 
 
-📃 My <a href="Karmaniket_resume.pdf" target="blank">**Resume**</a> <br>
+📃 My <a href="Aniket_resume.pdf" target="blank">**Resume**</a> <br>
 
 ## Connect with me:
 
@@ -37,14 +37,14 @@ src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generat
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) <br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) <br>
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) 
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) 
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) <br>
@@ -59,17 +59,16 @@ src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generat
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) 
+![KiCad](https://img.shields.io/badge/KiCad-%230A0FFF.svg?style=for-the-badge&logo=KiCad&logoColor=white) 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) 
 ![Home Assistant](https://img.shields.io/badge/home%20assistant-gray?style=for-the-badge&logo=home-assistant&logoColor=white) 
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-darkviolet?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) 
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-purple?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) 
+![Blender](https://img.shields.io/badge/Blender-EA7600.svg?style=for-the-badge&logo=Blender&logoColor=white) 
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) 
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-945c04.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) 
-![Blender](https://img.shields.io/badge/Blender-EA7600.svg?style=for-the-badge&logo=Blender&logoColor=white) 
 
 ## GitHub Stats:
 

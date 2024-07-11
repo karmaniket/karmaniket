@@ -1,5 +1,5 @@
 <h1 align="center">I'm Aniket Vishwakarma</h1>
-<h2 align="center">A learner with an undying passion for Robotics, Electronics, AI & ML.</h2>
+<h2 align="center">A learner with an undying passion for Electronics, AI & ML.</h2>
 <br>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=karmaniket&label=Profile%20views&color=0e75b6&style=flat" alt="karmaniket"/> </p>
 <img align="right" alt="Coding" width="500" height="50%" src="bg.jpg" >

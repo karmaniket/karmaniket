@@ -14,7 +14,7 @@
 
 📬 Throw your words **karmaniket@gmail.com** 
 
-📃 My <a href="Aniket_resume.pdf" target="blank">**Resume**</a> <br>
+📃 My <a href="https://github.com/karmaniket/My_Portfolio/blob/main/resource/Files/Karmaniket_resume.pdf" target="blank">**Resume**</a> <br>
 
 ## Connect with me:
 

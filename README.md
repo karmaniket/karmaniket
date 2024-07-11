@@ -4,7 +4,7 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=karmaniket&label=Profile%20views&color=0e75b6&style=flat" alt="karmaniket"/> </p>
 <img align="right" alt="Coding" width="500" height="50%" src="bg.jpg" >
 
-💻 Learning **IoT, Robotics, AI/ML and Data science** 
+💻 Learning **AI/ML, Data science, IoT and Robotics** 
 
 ⚙️ Currently working on <a href="https://youtu.be/rfYdz6yt3iI?si=UPEfs_aIDCgDcveI" target="blank">**Full metal Wearable and defensive Ironman armor** </a> 
 

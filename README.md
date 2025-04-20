@@ -7,22 +7,20 @@
 
 ⚙️ Currently working on <a href="https://youtu.be/rfYdz6yt3iI?si=UPEfs_aIDCgDcveI" target="blank">**Full Metal Wearable and Defensive Ironman armor** </a> 
 
-🔗 Watch me build projects on <a href="https://www.youtube.com/c/avmades" target="blank">**YouTube**</a>
+⚡ Watch me build projects on <a href="https://www.youtube.com/c/avmades" target="blank">**YouTube**</a>
 
 📬 Throw your words **karmaniket@gmail.com** 
 
-🤝 Looking forward to collaborate with like-minded individuals
-
-📃 My <a href="Aniket_resume.pdf" target="blank">**Resume**</a> <br>
+🌎 Looking forward to collaborate with like-minded individuals
 
 ## Connect with me:
 
 <p align="left">
-<a href="https://linkedin.com/in/karmaniket" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karmaniket" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/29716095/karmaniket" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="karmaniket" height="30" width="40" /></a>
-<a href="https://kaggle.com/karmaniket" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="karmaniket" height="30" width="40" /></a>
 <a href="https://instagram.com/avmades" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="avmades" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/avmades" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="avmades" height="30" width="40" /></a>
+<a href="https://kaggle.com/karmaniket" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="karmaniket" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/29716095/karmaniket" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="karmaniket" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/karmaniket" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karmaniket" height="30" width="40" /></a>
 </p>
 
 ## Languages and Tools:

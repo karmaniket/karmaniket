@@ -1,26 +1,26 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=1c92d2&text=A%20lifelong%20learner%20with%20a%20deep%20passion%20for%20AI/ML%20and%20Mechatronics&fontSize=20&fontAlignY=30&fontColor=f2f2f2" alt="header"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=1c92d2&text=A%20lifelong%20learner%20passionate%20about%20Research%20and%20Innovation&fontSize=20&fontAlignY=30&fontColor=f2f2f2" alt="header"/> 
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=f2f2f2&fontSize=50&width=435&lines=Hello%2C+It's+Aniket+Vishwakarma;Data+Science;Embedded+System;Robotics;Join+me+on+this+journey!" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=f2f2f2&fontSize=50&width=435&lines=Hello%2C+It's+Aniket+Vishwakarma;Enhancing+AI+ML;Data+Science;Mechatronics;Join+me+on+this+journey." alt="Typing SVG" /></a>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=karmaniket&label=Views&color=0e75b6&style=for-the-badge" alt="karmaniket"/> </p>
 
-⚙️ Currently working on <a href="https://youtu.be/rfYdz6yt3iI?si=UPEfs_aIDCgDcveI" target="blank">**Full Metal Wearable and Defensive Ironman armor** </a> 
+⚙️ Engineer at heart, solving real problems with clean code and impactful solutions
 
-⚡ Watch me build projects on <a href="https://www.youtube.com/c/avmades" target="blank">**YouTube**</a>
+⚡ Watch me build projects on <a href="https://www.youtube.com/c/avmades" target="_blank">`YouTube`</a>
 
-📬 Throw your words **karmaniket@gmail.com** 
+📬 Throw your words karmaniket@gmail.com
 
 🌎 Looking forward to collaborate with like-minded individuals
 
 ## Connect with me:
 
 <p align="left">
-<a href="https://instagram.com/avmades" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="avmades" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/avmades" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="avmades" height="30" width="40" /></a>
 <a href="https://kaggle.com/karmaniket" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="karmaniket" height="30" width="40" /></a>
+<a href="https://medium.com/@karmaniket" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="karmaniket" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/29716095/karmaniket" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="karmaniket" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/karmaniket" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karmaniket" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/avmades" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="avmades" height="30" width="40" /></a>
 </p>
 
 ## Languages and Tools:

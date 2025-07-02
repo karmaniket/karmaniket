@@ -1,69 +1,72 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=1c92d2&text=A%20lifelong%20learner%20passionate%20about%20Research%20and%20Innovation&fontSize=20&fontAlignY=30&fontColor=f2f2f2" alt="header"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=160&color=1c92d2&text=A%20lifelong%20learner%20passionate%20about%20Research%20and%20Innovation&fontSize=20&fontAlignY=30&fontColor=f2f2f2" alt="header"/> 
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=f2f2f2&fontSize=50&width=435&lines=Hello%2C+It's+Aniket+Vishwakarma;Enhancing+AI+ML;Data+Science;Mechatronics;Join+me+on+this+journey." alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=f2f2f2&fontSize=50&width=435&lines=Hello+It's+Vishwakarma+Aniket;Learning+AI+ML;Data+Science;Mechatronics;Join+me+on+this+journey!" alt="Typing SVG" /></a>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=karmaniket&label=Views&color=0e75b6&style=for-the-badge" alt="karmaniket"/> </p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=karmaniket&label=Views&color=0e75b6&style=for-the-badge" alt="karmaniket"/> </p> 
 
-⚙️ Engineer at heart, solving real problems with clean code and impactful solutions
+⚙️ Engineer at heart, solving real problems with clean code and impactful solutions 
 
-⚡ Watch me build projects on <a href="https://www.youtube.com/c/avmades" target="_blank">`YouTube`</a>
+⚡ Watch me build projects on <a href="https://www.youtube.com/c/avmades" target="_blank">`YouTube`</a> 
 
-📬 Throw your words karmaniket@gmail.com
+📬 Throw your words karmaniket@gmail.com 
 
-🌎 Looking forward to collaborate with like-minded individuals
+🌎 Looking forward to collaborate with like-minded individuals <br><br>
 
-## Connect with me:
+## Socials
 
-<p align="left">
-<a href="https://kaggle.com/karmaniket" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="karmaniket" height="30" width="40" /></a>
-<a href="https://medium.com/@karmaniket" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="karmaniket" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/29716095/karmaniket" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="karmaniket" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/karmaniket" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karmaniket" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/avmades" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="avmades" height="30" width="40" /></a>
-</p>
+[![Kaggle](https://img.shields.io/badge/Kaggle-%230288D1.svg?style=for-the-badge&logo=Kaggle&logoColor=white)](https://kaggle.com/karmaniket) 
+[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@karmaniket) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%231976D2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/karmaniket) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/c/avmades) 
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/VefuZwzaTZ) 
+[![Patreon](https://img.shields.io/badge/Patreon-%23000000?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/avmades) 
+[![Instagram](https://img.shields.io/badge/Instagram-EF1970?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/avmades) 
+[![Portfolio](https://img.shields.io/badge/portfolio-333333?style=for-the-badge&logo=JSON%20web%20tokens)](https://karmaniket.pages.dev) 
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/avmades) 
 
-## Languages and Tools:
+## Languages and Tools
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![c](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Excel](https://img.shields.io/badge/Excel-%23239120.svg?style=for-the-badge&logo=excel&logoColor=white) 
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) 
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) 
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) 
-![Cloudflare](https://img.shields.io/badge/Cloudflare-%23FF6F00.svg?style=for-the-badge&logo=Cloudflare&logoColor=white) 
-![Power BI](https://img.shields.io/badge/Power%20BI-FDEE21?style=for-the-badge&logo=powerbi&logoColor=black) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F05033.svg?style=for-the-badge&logo=Jupyter&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![Polars](https://img.shields.io/badge/polars-%230C55A5.svg?style=for-the-badge&logo=polars&logoColor=white) 
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
-![Matlab](https://img.shields.io/badge/Matlab-%23150458.svg?style=for-the-badge&logo=Matlab&logoColor=white) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) 
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
+![Seaborn](https://img.shields.io/badge/Seaborn-%2339457E.svg?style=for-the-badge&logo=Seaborn&logoColor=white) 
+![OpenCV](https://img.shields.io/badge/opencv-%23F5010C.svg?style=for-the-badge&logo=opencv&logoColor=white) 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) 
+![Matlab](https://img.shields.io/badge/Matlab-%23150458.svg?style=for-the-badge&logo=Matlab&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) 
+![Apache](https://img.shields.io/badge/apache-ff1709.svg?style=for-the-badge&logo=apache&logoColor=white) 
+![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) 
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) 
+![Render](https://img.shields.io/badge/Render-%23000.svg?style=for-the-badge&logo=render&logoColor=white) 
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) 
+![SolidWorks](https://img.shields.io/badge/SolidWorks-%23F5010C.svg?style=for-the-badge&logo=SolidWorks&logoColor=white) 
+![Blender](https://img.shields.io/badge/Blender-EA7600.svg?style=for-the-badge&logo=Blender&logoColor=white) 
 ![KiCad](https://img.shields.io/badge/KiCad-%230A0FFF.svg?style=for-the-badge&logo=KiCad&logoColor=white) 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-![Esp_32](https://img.shields.io/badge/-Esp32-C51A4A?style=for-the-badge&logo=Esp32)
-![Blender](https://img.shields.io/badge/Blender-EA7600.svg?style=for-the-badge&logo=Blender&logoColor=white) 
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) 
 
-## GitHub Stats:
+## GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karmaniket&show_icons=true&locale=en&layout=compact&theme=blue_navy" alt="karmaniket" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karmaniket&show_icons=true&locale=en&theme=blue_navy" alt="karmaniket" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karmaniket&show_icons=true&hide_border=true&locale=en&layout=compact&theme=blue_navy" alt="karmaniket" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karmaniket&show_icons=true&hide_border=true&locale=en&layout=compact&theme=blue_navy" alt="karmaniket" /></p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=1c92d2&text=Think.%20Plan.%20Execute.&fontSize=15&fontAlignY=80&fontColor=f2f2f2&section=footer" alt="footer"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=1c92d2&text=Think.%20Plan.%20Execute.&fontSize=15&fontAlignY=80&fontColor=f2f2f2&section=footer" alt="footer"/> 

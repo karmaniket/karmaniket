@@ -5,6 +5,8 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=karmaniket&label=Views&color=0e75b6&style=for-the-badge" alt="karmaniket"/> </p> 
 
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=karmaniket&show_icons=true&hide_border=true&locale=en&layout=compact&theme=blue_navy" alt="karmaniket" /></p>
+
 ⚙️ Engineer at heart, solving real problems with clean code and impactful solutions 
 
 ⚡ Watch me build projects on <a href="https://www.youtube.com/c/avmades" target="_blank">`YouTube`</a> 
@@ -63,10 +65,5 @@
 ![KiCad](https://img.shields.io/badge/KiCad-%230A0FFF.svg?style=for-the-badge&logo=KiCad&logoColor=white) 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) 
-
-## GitHub Stats
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karmaniket&show_icons=true&hide_border=true&locale=en&layout=compact&theme=blue_navy" alt="karmaniket" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karmaniket&show_icons=true&hide_border=true&locale=en&layout=compact&theme=blue_navy" alt="karmaniket" /></p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=1c92d2&text=Think.%20Plan.%20Execute.&fontSize=15&fontAlignY=80&fontColor=f2f2f2&section=footer" alt="footer"/> 

@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=160&color=1c92d2&text=A%20lifelong%20learner%20passionate%20about%20Research%20and%20Innovation&fontSize=20&fontAlignY=30&fontColor=f2f2f2" alt="header"/> 
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=f2f2f2&fontSize=50&width=435&lines=Hello+It's+Vishwakarma+Aniket;Learning+AI+ML;Data+Science;Mechatronics;Join+me+on+this+journey!" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=f2f2f2&fontSize=50&width=435&lines=Learning+AI+|+ML+|+CV;Data+Science+|+Data+Engineering;Robotics.;Join+me+on+this+journey!" alt="Typing SVG" /></a>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=karmaniket&label=Views&color=0e75b6&style=for-the-badge" alt="karmaniket"/> </p> 
 
@@ -14,18 +14,6 @@
 📬 Throw your words karmaniket@gmail.com 
 
 🌎 Looking forward to collaborate with like-minded individuals <br><br>
-
-## Socials
-
-[![Kaggle](https://img.shields.io/badge/Kaggle-%230288D1.svg?style=for-the-badge&logo=Kaggle&logoColor=white)](https://kaggle.com/karmaniket) 
-[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@karmaniket) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%231976D2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/karmaniket) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/c/avmades) 
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/VefuZwzaTZ) 
-[![Patreon](https://img.shields.io/badge/Patreon-%23000000?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/avmades) 
-[![Instagram](https://img.shields.io/badge/Instagram-EF1970?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/avmades) 
-[![Portfolio](https://img.shields.io/badge/portfolio-333333?style=for-the-badge&logo=JSON%20web%20tokens)](https://karmaniket.pages.dev) 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/avmades) 
 
 ## Languages and Tools
 
@@ -63,10 +51,23 @@
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) 
 ![Render](https://img.shields.io/badge/Render-%23000.svg?style=for-the-badge&logo=render&logoColor=white) 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) 
-![SolidWorks](https://img.shields.io/badge/SolidWorks-%23F5010C.svg?style=for-the-badge&logo=SolidWorks&logoColor=white) 
+![Fusion](https://img.shields.io/badge/Fusion-%23F5010C.svg?style=for-the-badge&logo=Fusion&logoColor=white) 
 ![Blender](https://img.shields.io/badge/Blender-EA7600.svg?style=for-the-badge&logo=Blender&logoColor=white) 
+![Proteus](https://img.shields.io/badge/-Proteus-00979D?style=for-the-badge&logo=Proteus&logoColor=white) 
 ![KiCad](https://img.shields.io/badge/KiCad-%230A0FFF.svg?style=for-the-badge&logo=KiCad&logoColor=white) 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=1c92d2&text=Think.%20Plan.%20Execute.&fontSize=15&fontAlignY=80&fontColor=f2f2f2&section=footer" alt="footer"/> 
+## Socials
+
+[![Kaggle](https://img.shields.io/badge/Kaggle-%230288D1.svg?style=for-the-badge&logo=Kaggle&logoColor=white)](https://kaggle.com/karmaniket) 
+[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@karmaniket) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%231976D2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/karmaniket) 
+[![Website](https://img.shields.io/badge/Website-333333?style=for-the-badge&logo=JSON%20web%20tokens)](https://karmaniket.pages.dev) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/c/avmades) 
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/VefuZwzaTZ) 
+[![Instagram](https://img.shields.io/badge/Instagram-EF1970?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/avmades) 
+[![Patreon](https://img.shields.io/badge/Patreon-%23000000?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/avmades) 
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/avmades) 
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=1c92d2&text=Think.%20%20Plan.%20%20Execute.%20%20Fail.%20%20Iterate.&fontSize=15&fontAlignY=80&fontColor=f2f2f2&section=footer" alt="footer"/> 

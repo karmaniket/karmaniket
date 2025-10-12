@@ -44,6 +44,7 @@
 ![Docker](https://img.shields.io/badge/docker-2962FF.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
 ![Jenkins](https://img.shields.io/badge/jenkins-%23484848.svg?style=for-the-badge&logo=jenkins&logoColor=white) 
+![AWS](https://img.shields.io/badge/AWS-%23ffffff.svg?style=for-the-badge&logo=AWS&logoColor=black) 
 ![Apache](https://img.shields.io/badge/apache-ff1709.svg?style=for-the-badge&logo=apache&logoColor=white) 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
 ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) 
@@ -60,14 +61,15 @@
 
 ## Socials
 
+[![Website](https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=JSON%20web%20tokens)](https://karmaniket.pages.dev) 
 [![Kaggle](https://img.shields.io/badge/Kaggle-%230288D1.svg?style=for-the-badge&logo=Kaggle&logoColor=white)](https://kaggle.com/karmaniket) 
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@karmaniket) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%231976D2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/karmaniket) 
-[![Website](https://img.shields.io/badge/Website-333333?style=for-the-badge&logo=JSON%20web%20tokens)](https://karmaniket.pages.dev) 
+[![Leetcode](https://img.shields.io/badge/Leetcode-%23000000.svg?style=for-the-badge&logo=Leetcode&logoColor=orange)](https://leetcode.com/u/karmaniket) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/c/avmades) 
+[![Patreon](https://img.shields.io/badge/Patreon-%23000000?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/avmades) 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/VefuZwzaTZ) 
 [![Instagram](https://img.shields.io/badge/Instagram-EF1970?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/avmades) 
-[![Patreon](https://img.shields.io/badge/Patreon-%23000000?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/avmades) 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/avmades) 
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23000000.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=yellow)](https://buymeacoffee.com/avmades) 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=1c92d2&text=Think.%20%20Plan.%20%20Execute.%20%20Fail.%20%20Iterate.&fontSize=15&fontAlignY=80&fontColor=f2f2f2&section=footer" alt="footer"/> 

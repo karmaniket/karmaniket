@@ -61,7 +61,7 @@
 
 ## Socials
 
-[![Website](https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=JSON%20web%20tokens)](https://karmaniket.pages.dev) 
+[![Website](https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=JSON%20web%20tokens)](https://karmaniket.vercel.app) 
 [![Kaggle](https://img.shields.io/badge/Kaggle-%230288D1.svg?style=for-the-badge&logo=Kaggle&logoColor=white)](https://kaggle.com/karmaniket) 
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@karmaniket) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%231976D2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/karmaniket) 

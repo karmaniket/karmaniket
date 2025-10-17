@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=160&color=1c92d2&text=A%20lifelong%20learner%20passionate%20about%20Research%20and%20Innovation&fontSize=20&fontAlignY=30&fontColor=f2f2f2" alt="header"/> 
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=f2f2f2&fontSize=50&width=435&lines=Learning+AI+|+ML+|+CV;Data+Science+|+Data+Engineering;Robotics.;Join+me+on+this+journey!" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=f2f2f2&fontSize=50&width=435&lines=Learning+AI+|+ML+|+CV;Data+Science+|+Data+Engineering;Robotics." alt="Typing SVG" /></a>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=karmaniket&label=Views&color=0e75b6&style=for-the-badge" alt="karmaniket"/> </p> 
 

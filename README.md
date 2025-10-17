@@ -1,9 +1,9 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=160&color=1c92d2&text=A%20lifelong%20learner%20passionate%20about%20Research%20and%20Innovation&fontSize=20&fontAlignY=30&fontColor=f2f2f2" alt="header"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=blur&height=300&color=0300A8&text=A%20lifelong%20learner%20passionate%20about%20Research%20and%20Innovation&fontSize=22&fontAlignY=50&fontColor=EBEBEB" alt="header"/> 
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=f2f2f2&fontSize=50&width=435&lines=Learning+AI+|+ML+|+CV;Data+Science+|+Data+Engineering;Robotics." alt="Typing SVG" /></a>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=karmaniket&label=Views&color=0e75b6&style=for-the-badge" alt="karmaniket"/> </p> 
+<p align="center"><img src="https://komarev.com/ghpvc/?username=karmaniket&abbreviated=true&label=Views&color=0300A8&style=for-the-badge" alt="karmaniket"/> </p> 
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=karmaniket&show_icons=true&hide_border=true&locale=en&layout=compact&theme=blue_navy" alt="karmaniket" /></p>
 
@@ -72,4 +72,4 @@
 [![Instagram](https://img.shields.io/badge/Instagram-EF1970?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/avmades) 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23000000.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=yellow)](https://buymeacoffee.com/avmades) 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=1c92d2&text=Think.%20%20Plan.%20%20Execute.%20%20Fail.%20%20Iterate.&fontSize=15&fontAlignY=80&fontColor=f2f2f2&section=footer" alt="footer"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0300A8&text=Think.%20%20Plan.%20%20Execute.%20%20Fail.%20%20Iterate.&fontSize=15&fontAlignY=80&fontColor=EBEBEB&section=footer" alt="footer"/> 

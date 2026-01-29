@@ -40,7 +40,7 @@
 
 ## Projects 
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=karmaniket&show_icons=true&hide_border=true&locale=en&layout=compact&theme=blue_navy" alt="karmaniket" /></p> <br>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=karmaniket&show_icons=true&hide_border=true&locale=en&layout=compact&theme=blue_navy" alt="karmaniket" /></p> 
 
 - 💻 **[MeetOpsApp](https://github.com/karmaniket/MeetOpsAgent)** - Automate Your Meeting Operations
 - 🎮 **[GtaVControl](https://github.com/karmaniket/GtaVControl)** - Control GTA V With Hand Gestures

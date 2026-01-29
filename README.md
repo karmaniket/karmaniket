@@ -1,70 +1,65 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=blur&height=300&color=0300A8&text=A%20lifelong%20learner%20passionate%20about%20Research%20and%20Innovation&fontSize=22&fontAlignY=50&fontColor=EBEBEB" alt="header"/> 
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=30&duration=4000&pause=100000&color=f2f2f2&fontSize=50&width=600&lines=Hi,+I'm+Karmaniket+aka+AV+mades" alt="Typing SVG" /></a> 
+
+<p align="left"><img src="https://komarev.com/ghpvc/?username=karmaniket&abbreviated=true&label=Views&color=0300A8&style=flat-square" alt="karmaniket"/> </p>
+
+📍**Mumbai ↔ Gorakhpur** | **Lifelong Learner & Builder, Passionate about Research & Innovation** 
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=f2f2f2&fontSize=50&width=435&lines=Learning+AI+|+ML+|+CV;Data+Science+|+Data+Engineering;Robotics." alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=18&duration=4500&pause=500&color=f2f2f2&fontSize=50&width=700&lines=Learning+Data+Analytics+|+Data+Engineering;AI+|+Machine+Learning+|+Computer+Vision" alt="Typing SVG" /></a> 
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=karmaniket&abbreviated=true&label=Views&color=0300A8&style=for-the-badge" alt="karmaniket"/> </p> 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) 
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=black) 
+![Jupyter](https://img.shields.io/badge/Jupyter-%23F05033.svg?style=flat-square&logo=Jupyter&logoColor=white) 
+![OpenCV](https://img.shields.io/badge/opencv-%23F5010C.svg?style=flat-square&logo=opencv&logoColor=white) 
+![Uvicorn](https://img.shields.io/badge/uvicorn-%230288D1.svg?style=flat-square&logo=uvicorn&logoColor=white) 
+![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=flat-square&logo=gunicorn&logoColor=white) 
+![Docker](https://img.shields.io/badge/docker-2962FF.svg?style=flat-square&logo=docker&logoColor=white) 
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white) 
+![Jenkins](https://img.shields.io/badge/jenkins-%23484848.svg?style=flat-square&logo=jenkins&logoColor=white) 
+![AWS](https://img.shields.io/badge/AWS-%23ffffff.svg?style=flat-square&logo=AWS&logoColor=black) 
+![Firebase](https://img.shields.io/badge/Firebase-%23484848.svg?style=flat-square&logo=Firebase&logoColor=orange) 
+![KiCad](https://img.shields.io/badge/KiCad-%230A0FFF.svg?style=flat-square&logo=KiCad&logoColor=white) 
+![Fusion](https://img.shields.io/badge/Fusion-E95420?style=flat-square&logo=Fusion&logoColor=white) 
+![Proteus](https://img.shields.io/badge/-Proteus-00979D?style=flat-square&logo=Proteus&logoColor=white) 
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat-square&logo=Raspberry-Pi) 
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white) 
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=karmaniket&show_icons=true&hide_border=true&locale=en&layout=compact&theme=blue_navy" alt="karmaniket" /></p>
+> **⚙️ Engineer At Heart, Solving Real-World Problems With Clean Code & Impactful Solutions.**
 
-⚙️ Engineer at heart, solving real problems with clean code and impactful solutions 
+## Building In Public
 
-⚡ Watch me build projects on <a href="https://www.youtube.com/c/avmades" target="_blank">`YouTube`</a> 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/c/avmades) 
+[![Instagram](https://img.shields.io/badge/Instagram-EF1970?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/avmades) 
 
-📬 Throw your words karmaniket@gmail.com 
+## Projects 
 
-🌎 Looking forward to collaborate with like-minded individuals <br><br>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=karmaniket&show_icons=true&hide_border=true&locale=en&layout=compact&theme=blue_navy" alt="karmaniket" /></p> 
 
-## Languages and Tools
+- 💻 **[MeetOpsApp](https://github.com/karmaniket/MeetOpsAgent)** - Automate Your Meeting Operations
+- 🎮 **[GtaVControl](https://github.com/karmaniket/GtaVControl)** - Control GTA V With Hand Gestures
+- ☀️ **[MoodPredictor](https://github.com/karmaniket/MoodPredictor)** - Predict Your Mood Based On Your Input
+- ⛽ **[FuelCalculator](https://github.com/karmaniket/Fuel-Calculator)** - Calculate Your Trip's Fuel Consumption And Cost Instantly
+- 🎓 **[AcademicPredictor](https://github.com/karmaniket/Academic-Predictor)** - Know Where You’ll Stand Academically In Any Given Year
+- 💡 **[LDR-Sensor-PCB](https://github.com/karmaniket/LDR_PCB)** - PCB For Light-Sensitive Applications
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Jupyter](https://img.shields.io/badge/Jupyter-%23F05033.svg?style=for-the-badge&logo=Jupyter&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
-![Seaborn](https://img.shields.io/badge/Seaborn-%2339457E.svg?style=for-the-badge&logo=Seaborn&logoColor=white) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
-![OpenCV](https://img.shields.io/badge/opencv-%23F5010C.svg?style=for-the-badge&logo=opencv&logoColor=white) 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
-![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-2962FF.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
-![Jenkins](https://img.shields.io/badge/jenkins-%23484848.svg?style=for-the-badge&logo=jenkins&logoColor=white) 
-![AWS](https://img.shields.io/badge/AWS-%23ffffff.svg?style=for-the-badge&logo=AWS&logoColor=black) 
-![Apache](https://img.shields.io/badge/apache-ff1709.svg?style=for-the-badge&logo=apache&logoColor=white) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) 
-![Render](https://img.shields.io/badge/Render-%23000.svg?style=for-the-badge&logo=render&logoColor=white) 
-![Firebase](https://img.shields.io/badge/Firebase-%23ffffff.svg?style=for-the-badge&logo=Firebase&logoColor=orange) 
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) 
-![Fusion](https://img.shields.io/badge/Fusion-%23F5010C.svg?style=for-the-badge&logo=Fusion&logoColor=white) 
-![Blender](https://img.shields.io/badge/Blender-EA7600.svg?style=for-the-badge&logo=Blender&logoColor=white) 
-![KiCad](https://img.shields.io/badge/KiCad-%230A0FFF.svg?style=for-the-badge&logo=KiCad&logoColor=white) 
-![Proteus](https://img.shields.io/badge/-Proteus-00979D?style=for-the-badge&logo=Proteus&logoColor=white) 
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) 
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
+## Support 
 
-## Socials
+[![Patreon](https://img.shields.io/badge/Patreon-%23000000?style=flat-square&logo=patreon&logoColor=white)](https://www.patreon.com/avmades) 
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/avmades) 
 
-[![Website](https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=JSON%20web%20tokens)](https://karmaniket.vercel.app) 
-[![Kaggle](https://img.shields.io/badge/Kaggle-%230288D1.svg?style=for-the-badge&logo=Kaggle&logoColor=white)](https://kaggle.com/karmaniket) 
-[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@karmaniket) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%231976D2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/karmaniket) 
-[![Leetcode](https://img.shields.io/badge/Leetcode-%23000000.svg?style=for-the-badge&logo=Leetcode&logoColor=orange)](https://leetcode.com/u/karmaniket) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/c/avmades) 
-[![Patreon](https://img.shields.io/badge/Patreon-%23000000?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/avmades) 
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/VefuZwzaTZ) 
-[![Instagram](https://img.shields.io/badge/Instagram-EF1970?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/avmades) 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/avmades) 
+## Connect 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0300A8&text=Think.%20%20Plan.%20%20Execute.%20%20Fail.%20%20Iterate.&fontSize=15&fontAlignY=80&fontColor=EBEBEB&section=footer" alt="footer"/> 
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/VefuZwzaTZ) 
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/karmaniket) 
+[![Kaggle](https://img.shields.io/badge/Kaggle-%230288D1.svg?style=flat-square&logo=Kaggle&logoColor=white)](https://kaggle.com/karmaniket) 
+[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=flat-square&logo=Medium&logoColor=white)](https://medium.com/@karmaniket) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%231976D2.svg?style=flat-square&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/karmaniket) 
+
+> **Think. Plan. Execute. Fail. Iterate...**

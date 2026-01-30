@@ -3,7 +3,7 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=karmaniket&abbreviated=true&label=Views&color=0300A8&style=flat-square" alt="karmaniket"/> </p>
 
-📍**Mumbai ↔ Gorakhpur** | **Lifelong Learner & Builder, Passionate about Research & Innovation** 
+📍**Mumbai ↔ Gorakhpur** | **Self-Directed Lifelong Learner & Builder Focused on Research & Innovation** 
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=18&duration=4500&pause=500&color=f2f2f2&fontSize=50&width=700&lines=Learning+Data+Analytics+|+Data+Engineering;AI+|+Machine+Learning+|+Computer+Vision" alt="Typing SVG" /></a> 
@@ -70,4 +70,4 @@
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=flat-square&logo=Medium&logoColor=white)](https://medium.com/@karmaniket) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%231976D2.svg?style=flat-square&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/karmaniket) 
 
-> **Think. Plan. Execute. Fail. Iterate...**
+> **Think. Plan. Execute. Fail. Iterate.**

@@ -6,7 +6,7 @@
 📍**Mumbai ↔ Gorakhpur** | **Self-Directed Lifelong Learner & Builder Focused on Research & Innovation** 
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=18&duration=4500&pause=500&color=f2f2f2&fontSize=50&width=700&lines=Learning+Data+Analytics+|+Data+Engineering;AI+|+Machine+Learning+|+Computer+Vision" alt="Typing SVG" /></a> 
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=18&duration=4500&pause=700&color=f2f2f2&fontSize=50&width=1000&lines=Engineer+at+Heart,+Solving+Real-World+Problems+with+Clean+Code+and+Impactful+Solutions.;Learning+Data+Analytics+|+Data+Engineering;AI+|+Machine+Learning+|+Computer+Vision" alt="Typing SVG" /></a> 
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) 
@@ -31,7 +31,7 @@
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat-square&logo=Raspberry-Pi) 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white) 
 
-> **⚙️ Engineer At Heart, Solving Real-World Problems With Clean Code & Impactful Solutions.**
+> **I build tools to solve problems I personally face and those commonly encountered by others, and share them with the world.**
 
 ## Building In Public
 

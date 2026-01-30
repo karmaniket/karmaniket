@@ -40,14 +40,22 @@
 
 ## Projects 
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=karmaniket&show_icons=true&hide_border=true&locale=en&layout=compact&theme=blue_navy" alt="karmaniket" /></p> 
-
 - 💻 **[MeetOpsApp](https://github.com/karmaniket/MeetOpsAgent)** - Automate Your Meeting Operations
-- 🎮 **[GtaVControl](https://github.com/karmaniket/GtaVControl)** - Control GTA V With Hand Gestures
-- ☀️ **[MoodPredictor](https://github.com/karmaniket/MoodPredictor)** - Predict Your Mood Based On Your Input
-- ⛽ **[FuelCalculator](https://github.com/karmaniket/Fuel-Calculator)** - Calculate Your Trip's Fuel Consumption And Cost Instantly
-- 🎓 **[AcademicPredictor](https://github.com/karmaniket/Academic-Predictor)** - Know Where You’ll Stand Academically In Any Given Year
-- 💡 **[LDR-Sensor-PCB](https://github.com/karmaniket/LDR_PCB)** - PCB For Light-Sensitive Applications
+- 🎮 **[GtaVControl](https://github.com/karmaniket/GtaVControl)** - Control GTA V with Hand Gestures
+- ☀️ **[MoodPredictor](https://github.com/karmaniket/MoodPredictor)** - Predict Your Mood Based on Your Input
+- ⛽ **[FuelCalculator](https://github.com/karmaniket/Fuel-Calculator)** - Calculate Your Trip's Fuel Consumption and Cost Instantly
+- 🎓 **[AcademicPredictor](https://github.com/karmaniket/Academic-Predictor)** - Know Where You’ll Stand Academically in any Given Year
+
+### Predictive Analytics
+
+- 🎵 **[MusicForecast](https://github.com/karmaniket/MusicForecast)** - Music Popularity Prediction Based on its Attributes
+- 🌲 **[ForestFiresOccPrediction](https://github.com/karmaniket/ForestFiresOccPrediction)** - Forest Fire Occurrence Prediction using Logistic Regression
+- 🚘 **[CarSalesPipeline](https://github.com/karmaniket/CarSalesPipeline)** - A Modular Pipeline for Car Sales Trend Forecasting using Synthetic Data
+
+### Electronics
+
+- 💡 **[LDR-Sensor-PCB](https://github.com/karmaniket/LDR_PCB)** - PCB for Light-Sensitive Applications
+- 🚆 **[Train-station-indicator](https://github.com/karmaniket/Train_station_indicator)** - Arduino-Based Train Station Indicator Simulation
 
 ## Support 
 

@@ -43,8 +43,8 @@
 - 💻 **[MeetOpsApp](https://github.com/karmaniket/MeetOpsAgent)** - Automate Your Meeting Operations
 - 🎮 **[GtaVControl](https://github.com/karmaniket/GtaVControl)** - Control GTA V with Hand Gestures
 - ☀️ **[MoodPredictor](https://github.com/karmaniket/MoodPredictor)** - Predict Your Mood Based on Your Input
-- ⛽ **[FuelCalculator](https://github.com/karmaniket/Fuel-Calculator)** - Calculate Your Trip's Fuel Consumption and Cost Instantly
-- 🎓 **[AcademicPredictor](https://github.com/karmaniket/Academic-Predictor)** - Know Where You’ll Stand Academically in any Given Year
+- ⛽ **[Fuel-Calculator](https://github.com/karmaniket/Fuel-Calculator)** - Calculate Your Trip's Fuel Consumption and Cost Instantly
+- 🎓 **[Academic-Predictor](https://github.com/karmaniket/Academic-Predictor)** - Know Where You’ll Stand Academically in any Given Year
 
 ### Predictive Analytics
 
@@ -55,7 +55,7 @@
 ### Electronics
 
 - 💡 **[LDR-Sensor-PCB](https://github.com/karmaniket/LDR_PCB)** - PCB for Light-Sensitive Applications
-- 🚆 **[Train-station-indicator](https://github.com/karmaniket/Train_station_indicator)** - Arduino-Based Train Station Indicator Simulation
+- 🚆 **[Train-Station-Indicator](https://github.com/karmaniket/Train_station_indicator)** - Arduino-Based Train Station Indicator Simulation
 
 ## Support 
 

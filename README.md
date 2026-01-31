@@ -25,6 +25,7 @@
 ![Jenkins](https://img.shields.io/badge/jenkins-%23484848.svg?style=flat-square&logo=jenkins&logoColor=white) 
 ![AWS](https://img.shields.io/badge/AWS-%23ffffff.svg?style=flat-square&logo=AWS&logoColor=black) 
 ![Firebase](https://img.shields.io/badge/Firebase-%23484848.svg?style=flat-square&logo=Firebase&logoColor=orange) 
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![KiCad](https://img.shields.io/badge/KiCad-%230A0FFF.svg?style=flat-square&logo=KiCad&logoColor=white) 
 ![Fusion](https://img.shields.io/badge/Fusion-E95420?style=flat-square&logo=Fusion&logoColor=white) 
 ![Proteus](https://img.shields.io/badge/-Proteus-00979D?style=flat-square&logo=Proteus&logoColor=white) 

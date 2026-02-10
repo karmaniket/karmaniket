@@ -51,7 +51,7 @@
 
 - 🎵 **[MusicForecast](https://github.com/karmaniket/MusicForecast)** - Music Popularity Prediction Based on its Attributes
 - 🌲 **[ForestFiresOccPrediction](https://github.com/karmaniket/ForestFiresOccPrediction)** - Forest Fire Occurrence Prediction using Logistic Regression
-- 🚘 **[CarSalesPipeline](https://github.com/karmaniket/CarSalesPipeline)** - A Modular Pipeline for Car Sales Trend Forecasting using Synthetic Data
+- 🚘 **[CarSalesForecast](https://github.com/karmaniket/CarSalesForecast)** - Study of Car Sales Trends and Forecasting Using Synthetic Data
 
 ### Electronics
 

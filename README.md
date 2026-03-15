@@ -11,26 +11,26 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=black) 
-![Jupyter](https://img.shields.io/badge/Jupyter-%23F05033.svg?style=flat-square&logo=Jupyter&logoColor=white) 
 ![OpenCV](https://img.shields.io/badge/opencv-%23F5010C.svg?style=flat-square&logo=opencv&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) 
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) 
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) 
 ![Uvicorn](https://img.shields.io/badge/uvicorn-%230288D1.svg?style=flat-square&logo=uvicorn&logoColor=white) 
 ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=flat-square&logo=gunicorn&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-2962FF.svg?style=flat-square&logo=docker&logoColor=white) 
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white) 
-![Jenkins](https://img.shields.io/badge/jenkins-%23484848.svg?style=flat-square&logo=jenkins&logoColor=white) 
+![Jenkins](https://img.shields.io/badge/jenkins-2a2929.svg?style=flat-square&logo=jenkins&logoColor=white) 
+![Apache](https://img.shields.io/badge/apache-ff1709.svg?style=flat-square&logo=apache&logoColor=white) 
 ![AWS](https://img.shields.io/badge/AWS-%23ffffff.svg?style=flat-square&logo=AWS&logoColor=black) 
 ![Firebase](https://img.shields.io/badge/Firebase-%23484848.svg?style=flat-square&logo=Firebase&logoColor=orange) 
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-161b22?style=flat-square&logo=supabase&logoColor=green) 
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) 
 ![KiCad](https://img.shields.io/badge/KiCad-%230A0FFF.svg?style=flat-square&logo=KiCad&logoColor=white) 
 ![Fusion](https://img.shields.io/badge/Fusion-E95420?style=flat-square&logo=Fusion&logoColor=white) 
-![Proteus](https://img.shields.io/badge/-Proteus-00979D?style=flat-square&logo=Proteus&logoColor=white) 
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat-square&logo=Raspberry-Pi) 
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white) 
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat-square&logo=Raspberry-Pi)  
 
 > **I build tools to solve problems I personally face and those commonly encountered by others, and share them with the world.**
 
@@ -41,7 +41,7 @@
 
 ## Projects 
 
-- 💻 **[MeetOpsApp](https://github.com/karmaniket/MeetOpsAgent)** - Automate Your Meeting Operations
+- 💻 **[MeetOpsApp](https://github.com/karmaniket/MeetOpsApp)** - Automate Your Meeting Operations
 - 🎮 **[GtaVControl](https://github.com/karmaniket/GtaVControl)** - Control GTA V with Hand Gestures
 - ☀️ **[MoodPredictor](https://github.com/karmaniket/MoodPredictor)** - Predict Your Mood Based on Your Input
 - ⛽ **[Fuel-Calculator](https://github.com/karmaniket/Fuel-Calculator)** - Calculate Your Trip's Fuel Consumption and Cost Instantly
@@ -49,9 +49,9 @@
 
 ### Predictive Analytics
 
-- 🎵 **[MusicForecast](https://github.com/karmaniket/MusicForecast)** - Music Popularity Prediction Based on its Attributes
-- 🌲 **[ForestFiresOccPrediction](https://github.com/karmaniket/ForestFiresOccPrediction)** - Forest Fire Occurrence Prediction using Logistic Regression
-- 🚘 **[CarSalesForecast](https://github.com/karmaniket/CarSalesForecast)** - Study of Car Sales Trends and Forecasting using Synthetic Data
+- 🌲 **[ForestFiresOccPrediction](https://github.com/karmaniket/ForestFiresOccPrediction)** - Logistic regression model to predict forest fire occurrence
+- 🚘 **[CarSalesForecast](https://github.com/karmaniket/CarSalesForecast)** - Linear regression model to estimate future brand sales trends
+- 🎵 **[MusicForecast](https://github.com/karmaniket/MusicForecast)** - Music popularity prediction based on its attributes
 
 ### Electronics
 

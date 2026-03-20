@@ -41,7 +41,7 @@
 
 ## Projects 
 
-- 💻 **[MeetOpsApp](https://meetopsai.vercel.app)** - Automate Your Meeting Operations
+- 💻 **[MeetOpsAI](https://meetopsai.vercel.app)** - Automate Your Meeting Operations
 - 🎮 **[GtaVControl](https://github.com/karmaniket/GtaVControl)** - Control GTA V with Hand Gestures
 - ☀️ **[MoodPredictor](https://github.com/karmaniket/MoodPredictor)** - Predict Your Mood Based on Your Input
 - ⛽ **[Fuel-Calculator](https://github.com/karmaniket/Fuel-Calculator)** - Calculate Your Trip's Fuel Consumption and Cost Instantly

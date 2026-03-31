@@ -15,8 +15,7 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=black) 
 ![OpenCV](https://img.shields.io/badge/opencv-%23F5010C.svg?style=flat-square&logo=opencv&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-%2307405e.svg?style=flat-square&logo=mysql&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) 
 ![Uvicorn](https://img.shields.io/badge/uvicorn-%230288D1.svg?style=flat-square&logo=uvicorn&logoColor=white) 
 ![Gunicorn](https://img.shields.io/badge/gunicorn-161b22.svg?style=flat-square&logo=gunicorn&logoColor=green) 
@@ -25,7 +24,6 @@
 ![Jenkins](https://img.shields.io/badge/jenkins-2a2929.svg?style=flat-square&logo=jenkins&logoColor=white) 
 ![Apache](https://img.shields.io/badge/apache-ff1709.svg?style=flat-square&logo=apache&logoColor=white) 
 ![AWS](https://img.shields.io/badge/AWS-%23ffffff.svg?style=flat-square&logo=AWS&logoColor=black) 
-![Firebase](https://img.shields.io/badge/Firebase-%23484848.svg?style=flat-square&logo=Firebase&logoColor=orange) 
 ![Supabase](https://img.shields.io/badge/Supabase-161b22?style=flat-square&logo=supabase&logoColor=spring-green) 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) 
 ![KiCad](https://img.shields.io/badge/KiCad-%230A0FFF.svg?style=flat-square&logo=KiCad&logoColor=white) 
@@ -41,7 +39,7 @@
 
 ## Projects 
 
-- 💻 **[MeetOpsAI](https://meetopsai.vercel.app)** - Automate Your Meeting Operations
+- 💻 **[MeetOps](https://meetopsai.vercel.app)** - Automate Your Meeting Operations
 - 🎮 **[GtaVControl](https://github.com/karmaniket/GtaVControl)** - Control GTA V with Hand Gestures
 - ☀️ **[MoodPredictor](https://github.com/karmaniket/MoodPredictor)** - Predict Your Mood Based on Your Input
 - ⛽ **[Fuel-Calculator](https://github.com/karmaniket/Fuel-Calculator)** - Calculate Your Trip's Fuel Consumption and Cost Instantly
@@ -68,7 +66,8 @@
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/VefuZwzaTZ) 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/karmaniket) 
 [![Kaggle](https://img.shields.io/badge/Kaggle-%230288D1.svg?style=flat-square&logo=Kaggle&logoColor=white)](https://kaggle.com/karmaniket) 
-[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=flat-square&logo=Medium&logoColor=white)](https://medium.com/@karmaniket) 
+[![Leetcode](https://img.shields.io/badge/Leetcode-%23000000.svg?style=flat-square&logo=Leetcode)](https://leetcode.com/u/karmaniket) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%231976D2.svg?style=flat-square&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/karmaniket) 
+[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=flat-square&logo=Medium&logoColor=white)](https://medium.com/@karmaniket) 
 
 > **Think. Plan. Execute. Fail. Iterate.**
